@@ -1,1 +1,1 @@
-# resnet-learn-project
+# RNN 学习笔记
